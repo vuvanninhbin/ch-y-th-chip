@@ -2,7 +2,7 @@
 project:
   title:        "asiclab_adder"      # Project title
   author:       "asiclab"      # Your name
-  discord:      ""      # Your discord username (optional)
+  discord:      "mạoaof"      # Your discord username (optional)
   description:  "This is adder 8 bit sample"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
